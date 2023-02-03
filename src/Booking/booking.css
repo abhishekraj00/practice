@@ -1,0 +1,24 @@
+.box_container{
+    max-width: 500px;
+    overflow: scroll;
+    flex-wrap: nowrap;
+    display: flex;
+    justify-content: space-between;
+}
+
+p{
+    min-width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    margin: 10px;
+    border-radius: 10px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.slot_container{
+    max-width: 500px;
+    overflow: scroll;
+    flex-wrap: nowrap;
+
+}

@@ -1,0 +1,25 @@
+.userInput{
+    width: 300px;
+    height: 30px;
+}
+.time{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+.start , .end{
+   width: 50px; 
+}
+.day{
+    width: 100px;
+}
+.main_Home{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 600px;
+    height: auto;
+    flex-direction: column;
+    border: 1px solid black;
+}
